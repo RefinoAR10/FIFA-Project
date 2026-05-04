@@ -1,2 +1,1 @@
- Local URL: http://localhost:8501
-  Network URL: http://10.195.242.34:8501
+ Available at your primary URL https://fifa-project-4.onrender.com
